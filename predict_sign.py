@@ -145,6 +145,8 @@ predictions = deque(maxlen=SMOOTHING_WINDOW)
 # cap.release()
 # cv2.destroyAllWindows()
 
+cv2.namedWindow("Sign-Translate", cv2.WINDOW_NORMAL)
+cv2.setWindowProperty("Sign-Translate", cv2.WND_PROP_FULLSCREEN, cv2.WINDOW_FULLSCREEN)
 
 
 while True:
