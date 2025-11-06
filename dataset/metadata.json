@@ -1,0 +1,25 @@
+{
+  "labels": {
+    "Please": 100,
+    "Stop": 104,
+    "cold": 104,
+    "Shy": 107,
+    "fine": 102,
+    "Father": 106,
+    "Go": 110,
+    "Seven": 106,
+    "Mother": 104,
+    "phone": 107,
+    "Love": 106,
+    "movie": 105,
+    "More": 108,
+    "Hurt": 105,
+    "gun": 108,
+    "Name": 105,
+    "yes": 104,
+    "friend": 105,
+    "play": 104,
+    "bathroom": 102
+  },
+  "total_images": 2108
+}
